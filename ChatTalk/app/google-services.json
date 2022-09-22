@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58367803912",
+    "project_id": "chattalk-338c2",
+    "storage_bucket": "chattalk-338c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58367803912:android:f4fd5594e63e4aaa20c7bd",
+        "android_client_info": {
+          "package_name": "com.hytek.chattalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58367803912-hml8qffurmv4rro0ksfscs9r6kh3nfoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJrkByLTtLyIDaxiBqmu9BoyDCBcZ5fJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58367803912-hml8qffurmv4rro0ksfscs9r6kh3nfoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
